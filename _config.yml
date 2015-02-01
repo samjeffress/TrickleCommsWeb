@@ -1,0 +1,13 @@
+# Site settings
+title: Trickle Communications
+email: sam@mail.tricklesms.com
+description: > # this means to ignore newlines until "baseurl:"
+  Trickle Communication - helping create conversations through communication
+  Trickle SMS and Email messages to your customers to create great workflow for your staff and provide your customers the service they need when you communicate with them
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tricklecomms.com" # the base hostname & protocol for your site
+twitter_username: sam_jeffress
+github_username:  samjeffress
+
+# Build settings
+markdown: kramdown
